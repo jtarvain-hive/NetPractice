@@ -1,5 +1,5 @@
 *This project has been created as part of the 42 curriculum by jtarvain*
-# Net_practice
+# NetPractice
 ## Description
 NetPractice is a system administration and networking exercise project from the 42 curriculum. The goal is to develop a solid understanding of TCP/IP addressing by solving a series of 10 progressively challenging network configuration puzzles.
 
@@ -113,4 +113,4 @@ This project covers the following networking fundamentals:
 - **OSI model** — with emphasis on the Network layer (Layer 3) and how it governs packet delivery
 
 ### AI usage
-Claude (Anthropic) was used as a Socratic study partner during this project — asking questions to guide understanding of subnetting logic, routing table configuration, and diagnosing network topology errors. No solutions were generated directly; AI was used to deepen conceptual understanding.
+AI was used as a Socratic study partner during this project — asking questions to guide understanding of subnetting logic, routing table configuration, and diagnosing network topology errors. No solutions were generated directly; AI was used to deepen conceptual understanding.
