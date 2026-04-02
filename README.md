@@ -95,6 +95,7 @@ Each of the 10 levels must be solved and exported using the **Get my config** bu
 ![Level 10](img/level10.png)
 
 </details>
+
 ### References
 | Resource | Description |
 |---|---|
