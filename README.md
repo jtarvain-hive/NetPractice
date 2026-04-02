@@ -24,12 +24,83 @@ Topics covered include:
 Each of the 10 levels must be solved and exported using the **Get my config** button. Place all 10 exported configuration files at the root of the repository before submitting.
 
 ## Resources
+## Screenshots
+
+<details>
+<summary>Level 1</summary>
+
+![Level 1](img/level1.png)
+
+</details>
+
+<details>
+<summary>Level 2</summary>
+
+![Level 2](img/level2.png)
+
+</details>
+
+<details>
+<summary>Level 3</summary>
+
+![Level 3](img/level3.png)
+
+</details>
+
+<details>
+<summary>Level 4</summary>
+
+![Level 4](img/level4.png)
+
+</details>
+
+<details>
+<summary>Level 5</summary>
+
+![Level 5](img/level5.png)
+
+</details>
+
+<details>
+<summary>Level 6</summary>
+
+![Level 6](img/level6.png)
+
+</details>
+
+<details>
+<summary>Level 7</summary>
+
+![Level 7](img/level7.png)
+
+</details>
+
+<details>
+<summary>Level 8</summary>
+
+![Level 8](img/level8.png)
+
+</details>
+
+<details>
+<summary>Level 9</summary>
+
+![Level 9](img/level9.png)
+
+</details>
+
+<details>
+<summary>Level 10</summary>
+
+![Level 10](img/level10.png)
+
+</details>
 ### References
 | Resource | Description |
 |---|---|
 | [You suck at subnetting](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF) | Video series covering TCP/IP addressing, subnet masks, and CIDR notation from the ground up |
-| [What is the OSI Model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/) | Overview of the OSI layers, with focus on Layer 3 (Network) where IP and routing operate |
-| [What is the Internet Protocol?](https://www.cloudflare.com/learning/network-layer/internet-protocol/) | Explanation of how IP addresses, default gateways, and packet routing work |
+| [What is the OSI Model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/) | Overview of the OSI layers |
+| [What is the Internet Protocol?](https://www.cloudflare.com/learning/network-layer/internet-protocol/) | Explanation of how IP addresses work |
 
 ### Networking concepts studied
 This project covers the following networking fundamentals:
