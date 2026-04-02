@@ -27,7 +27,7 @@ Topics covered include:
 Each of the 10 levels must be solved and exported using the **Get my config** button. Place all 10 exported configuration files at the root of the repository before submitting.
 
 ## Resources
-## Screenshots
+### Screenshots
 
 <details>
 <summary>Level 1</summary>
