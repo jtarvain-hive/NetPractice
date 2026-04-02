@@ -15,7 +15,10 @@ Topics covered include:
 
 ## Instructions
 ### Running the training interface
-1. Clone or download the repository.
+1. Extract the training interface from the archive:
+```bash
+   tar -xf resources.tgz
+```
 2. Open `index.html` in a web browser — no server or installation required.
 3. Fill in the empty fields (IP addresses, subnet masks, routes) and click **Check** to validate your solution.
 4. Once a level is solved, click **Get my config** to export the configuration as a file.
@@ -113,4 +116,4 @@ This project covers the following networking fundamentals:
 - **OSI model** — with emphasis on the Network layer (Layer 3) and how it governs packet delivery
 
 ### AI usage
-AI was used as a Socratic study partner during this project — asking questions to guide understanding of subnetting logic, routing table configuration, and diagnosing network topology errors. No solutions were generated directly; AI was used to deepen conceptual understanding.
+AI was used as a Socratic study partner during this project — asking questions to guide understanding of subnetting logic, routing table configuration, and diagnosing network topology errors. No solutions were generated directly; AI was used to deepen conceptual understanding and helping with designing this README.md.
